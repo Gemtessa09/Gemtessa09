@@ -1,6 +1,7 @@
 ## Hi there 👋
+A,M GEMTESSA DEKSISA
 
-
+  
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Gemtessa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gemtessadeksisa@gmail.com) 
 
