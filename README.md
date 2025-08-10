@@ -1,65 +1,50 @@
- 
-# Gemtessa Deksisa Tolera<br><br>
+# About Me<br><br>
+Hi! 👋 I'm Gemtessa Deksisa Tolera.<br> 
+I'm a passionate software developer and lifelong learner.<br><br>
+- 💻 I specialize in Java, Kotlin, Python, PHP, JavaScript, HTML, CSS, Node.js, ReactJS, MySQL, and MongoDB.<br>
+- 🚀 I love building projects that solve real-world problems and help people.<br>
+- 🎓 Currently, I'm studying Software Engineering and Business Management at Haramaya University, continuously improving my skills.<br>
+- 🌍 I'm fluent in Afaan Oromo, Amharic, and English, which helps me collaborate in diverse teams.<br>
+- 🎯 My interests include **web development, mobile apps, backend systems, and AI**.<br><br>
 
-**📧** gemtessadeksisa@gmail.com | **📞** 0903735890<br>
-**🔗** [LinkedIn](https://www.linkedin.com/in/gemtessa-deksisa) | **🌍** Ethiopia<br><br>
+# Education<br><br>
+- 🎓 Bachelor of Software Engineering & Business Management, Haramaya University (2022 – Present)<br><br>
 
-## Objective<br><br>
-I am a passionate 3rd-year Software Engineering and Business Management student at Haramaya University.<br>
-I seek opportunities to apply my programming and business skills to solve real-world problems.<br><br>
+# Technical Skills<br><br>
+- 💻 Programming Languages: Java, Kotlin, Python, PHP, JavaScript, HTML, CSS, C++<br>
+- 🛠️ Frameworks & Tools: React, Node.js, Jetpack Compose, Git, Vite<br>
+- 🗄️ Databases: MySQL, MongoDB<br>
+- 📱 Mobile Development: Android (Kotlin, Jetpack Compose)<br><br>
 
-## Education<br><br>
-**Haramaya University** — Bachelor of Software Engineering & Business Management<br>
-2022 – Present<br><br>
-
-## Technical Skills<br><br>
-- **Languages:** Java, Kotlin, Python, PHP, JavaScript, C++, HTML, CSS<br>
-- **Frameworks & Tools:** React, Node.js, Jetpack Compose, MongoDB, MySQL, Git, Vite<br>
-- **Development:** Android app development, Full-stack web, AI basics<br>
-- **Databases:** SQL, NoSQL (MongoDB)<br>
-- **Languages Spoken:** Afaan Oromo (native), Amharic, English<br><br>
-
-## Certifications<br><br>
-- Fundamentals of Web Programming – Udacity<br>
-- Fundamentals of Android Development – Udacity<br>
+# Certifications<br><br>
+- Udacity: Fundamentals of Web Programming & Android Development<br>
 - Eshay with Google<br>
 - STEM Power Ethiopia – Ethiopian Ministry of Education & UNESCO<br>
-- Ministry of Peace – Ethiopian Government<br>
+- Ministry of Peace, Ethiopian Government<br>
 - Additional certificates from Gelan Town Administration<br><br>
 
-## Projects<br><br>
-**SHAGGAR GEBYA**<br>
-Platform for renting, buying properties, and job vacancies in Shaggar City.<br>
-- Developed front-end using HTML, CSS, and JavaScript.<br>
-- Created user-friendly UI components for easy navigation.<br><br>
+# Projects<br><br>
+- **SHAGGAR GEBYA:** Platform for renting, buying properties, and job vacancies in Shaggar City.<br>
+- **College Course Offering Management System:** Database-driven course registration with role-based access.<br>
+- **Offline Afaan Oromo – Sidama Translator App:** Mobile app for offline translation between two Ethiopian languages.<br>
+- **Advanced Scientific Calculator (Android):** Features include trig functions, roots, exponentiation, degree/radian toggle.<br><br>
 
-**College Course Offering Management System**<br>
-- Designed and implemented a database-driven course registration system.<br>
-- Developed role-based access for admins and department heads.<br><br>
+# Work Experience<br><br>
+- **INSA TECH – Software Development Intern (2025):** Collaborated on real-time software projects using Git and version control.<br><br>
 
-**Offline Afaan Oromo – Sidama Translator App**<br>
-- Built a mobile offline translator app for two Ethiopian languages using Kotlin and Android Studio.<br><br>
-
-**Advanced Scientific Calculator (Android)**<br>
-- Features: trigonometric functions, roots, exponentiation, degree/radian toggle.<br>
-- Developed using Jetpack Compose and integrated JavaScript engine.<br><br>
-
-## Work Experience<br><br>
-**INSA TECH – Internship** (Addis Ababa, Ethiopia)<br>
-*Software Development Intern* (2025)<br>
-- Participated in real-time software development projects.<br>
-- Gained experience with collaborative coding, Git version control, and project planning.<br><br>
-
-## Soft Skills<br><br>
-- Problem-solving & critical thinking<br>
+# Soft Skills<br><br>
+- Problem-solving and critical thinking<br>
 - Multilingual communication<br>
-- Self-motivated and quick learner<br>
-- Teamwork and leadership skills<br><br>
+- Self-motivation and quick learning<br>
+- Teamwork and leadership<br><br>
 
-## Languages<br><br>
+# Languages<br><br>
 - Afaan Oromo (Native)<br>
 - Amharic (Fluent)<br>
-- English (Fluent)<br>
+- English (Fluent)<br><br>
+
+Thanks for visiting my GitHub profile! Let's build something amazing together. 🚀<br>
+
 
 
 
