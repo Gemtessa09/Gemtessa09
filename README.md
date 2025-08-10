@@ -1,5 +1,5 @@
  
-# About Me<br><br>Hello! 👋 I'm Gemtessa Deksisa, a passionate software developer and lifelong learner.<br><br>- 💻 I specialize in  css, Html,JS, node, React, PHP, MySQL.  <br>- 🚀 I love building projects that solve real-world problems and help people.  <br>- 🎓 Currently, I'm studying  Software Engineering and continuously improving my skills.  <br>- 🌍 I'm fluent in Afaan Oromo, Amharic, and English, which helps me collaborate in diverse teams.  <br>- 🎯 My interests include **web development, mobile apps, backend systems, and AI**.Thanks for visiting my GitHub profile! Let's build something amazing together. 🚀<br>
+# About Me<br><br>Hi! 👋 I'm Gemtessa Deksisa Tolera.<br> I'M passionate software developer and lifelong learner.<br><br>- 💻 I specialize in  css, Html,JS, node, React, PHP, MySQL.  <br>- 🚀 I love building projects that solve real-world problems and help people.  <br>- 🎓 Currently, I'm studying  Software Engineering and continuously improving my skills.  <br>- 🌍 I'm fluent in Afaan Oromo, Amharic, and English, which helps me collaborate in diverse teams.  <br>- 🎯 My interests include **web development, mobile apps, backend systems, and AI**.<br>Thanks for visiting my GitHub profile! Let's build something amazing together. 🚀<br>
 
 
 ## 🌐 Socials:
