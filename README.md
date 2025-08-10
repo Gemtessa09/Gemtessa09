@@ -1,5 +1,66 @@
  
-# About Me<br><br>Hi! 👋 I'm Gemtessa Deksisa Tolera.<br> i'm passionate software developer and lifelong learner.<br><br>- 💻 I specialize in  CSS, HTML,JS, nodeJS, ReactJS, PHP, MySQL, MongoDB.  <br>- 🚀 I love building projects that solve real-world problems and help people.  <br>- 🎓 Currently, I'm studying  Software Engineering and continuously improving my skills.  <br>- 🌍 I'm fluent in Afaan Oromo, Amharic, and English, which helps me collaborate in diverse teams.  <br>- 🎯 My interests include **web development, mobile apps, backend systems, and AI**.<br>Thanks for visiting my GitHub profile! Let's build something amazing together. 🚀<br>
+# Gemtessa Deksisa Tolera<br><br>
+
+**📧** gemtessadeksisa@gmail.com | **📞** 0903735890<br>
+**🔗** [LinkedIn](https://www.linkedin.com/in/gemtessa-deksisa) | **🌍** Ethiopia<br><br>
+
+## Objective<br><br>
+I am a passionate 3rd-year Software Engineering and Business Management student at Haramaya University.<br>
+I seek opportunities to apply my programming and business skills to solve real-world problems.<br><br>
+
+## Education<br><br>
+**Haramaya University** — Bachelor of Software Engineering & Business Management<br>
+2022 – Present<br><br>
+
+## Technical Skills<br><br>
+- **Languages:** Java, Kotlin, Python, PHP, JavaScript, C++, HTML, CSS<br>
+- **Frameworks & Tools:** React, Node.js, Jetpack Compose, MongoDB, MySQL, Git, Vite<br>
+- **Development:** Android app development, Full-stack web, AI basics<br>
+- **Databases:** SQL, NoSQL (MongoDB)<br>
+- **Languages Spoken:** Afaan Oromo (native), Amharic, English<br><br>
+
+## Certifications<br><br>
+- Fundamentals of Web Programming – Udacity<br>
+- Fundamentals of Android Development – Udacity<br>
+- Eshay with Google<br>
+- STEM Power Ethiopia – Ethiopian Ministry of Education & UNESCO<br>
+- Ministry of Peace – Ethiopian Government<br>
+- Additional certificates from Gelan Town Administration<br><br>
+
+## Projects<br><br>
+**SHAGGAR GEBYA**<br>
+Platform for renting, buying properties, and job vacancies in Shaggar City.<br>
+- Developed front-end using HTML, CSS, and JavaScript.<br>
+- Created user-friendly UI components for easy navigation.<br><br>
+
+**College Course Offering Management System**<br>
+- Designed and implemented a database-driven course registration system.<br>
+- Developed role-based access for admins and department heads.<br><br>
+
+**Offline Afaan Oromo – Sidama Translator App**<br>
+- Built a mobile offline translator app for two Ethiopian languages using Kotlin and Android Studio.<br><br>
+
+**Advanced Scientific Calculator (Android)**<br>
+- Features: trigonometric functions, roots, exponentiation, degree/radian toggle.<br>
+- Developed using Jetpack Compose and integrated JavaScript engine.<br><br>
+
+## Work Experience<br><br>
+**INSA TECH – Internship** (Addis Ababa, Ethiopia)<br>
+*Software Development Intern* (2025)<br>
+- Participated in real-time software development projects.<br>
+- Gained experience with collaborative coding, Git version control, and project planning.<br><br>
+
+## Soft Skills<br><br>
+- Problem-solving & critical thinking<br>
+- Multilingual communication<br>
+- Self-motivated and quick learner<br>
+- Teamwork and leadership skills<br><br>
+
+## Languages<br><br>
+- Afaan Oromo (Native)<br>
+- Amharic (Fluent)<br>
+- English (Fluent)<br>
+
 
 
 ## 🌐 Socials:
