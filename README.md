@@ -1,5 +1,5 @@
 # WELL-COME TO MY GITHUB ACCOUNT.
-# <br>👋 I'm Gemtessa Deksisa Tolera. <br> "Software Engineer and Tech Enthusiast.
+# <br>👋 Hi, I'm Gemtessa Deksisa Tolera. <br> "Software Engineer and Tech Enthusiast.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gemtessadeksisa@gmail.com) 
