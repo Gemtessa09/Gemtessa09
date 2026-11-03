@@ -1,4 +1,4 @@
-# WELL-COME TO MY GITHUB ACCOUNT.
+# WELL-COME TO MY GITHUB.
 # <br>👋 Hi Everone I'm Gemtessa D Tolera. <br> Highly Skilled Software Developer & AI Engineer.
 
 ## 🌐 Socials:
