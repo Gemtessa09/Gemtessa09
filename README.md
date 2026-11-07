@@ -1,5 +1,5 @@
 # WELL-COME TO MY GITHUB.
-# <br>👋 Hi Everone I'm Gemtessa D Tolera. <br> Highly Skilled Software Developer & AI Engineer.
+# <br>👋 Hi Everone I'm Gemtessa D Tolera. <br> Software Engineer.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gemtessadeksisa@gmail.com) 
